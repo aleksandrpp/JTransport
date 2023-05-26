@@ -5,6 +5,7 @@ High-performance network transport based on Unity Job System. Under the hood, sl
 Soon there will be examples and demonstrations.
 
 _Unity 2022.2.12_
+_Unity Transport 2.0.1_
 <br>
 
 https://github.com/aleksandrpp/JTransport
